@@ -1,2 +1,2 @@
-# Scheme_Lisp
+# Scheme Lisp
 [Scheme](https://ru.wikipedia.org/wiki/Scheme "Scheme description") basic interpreter
